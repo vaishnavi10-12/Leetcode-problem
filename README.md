@@ -17,4 +17,20 @@ Collection of LeetCode problem solutions implemented in Java with clear logic an
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0078-subsets](https://github.com/vaishnavi10-12/Leetcode-problem/tree/main/0078-subsets/) | Medium |
+## Tree
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0101-symmetric-tree](https://github.com/vaishnavi10-12/Leetcode-problem/tree/main/0101-symmetric-tree/) | Easy |
+## Depth-First Search
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0101-symmetric-tree](https://github.com/vaishnavi10-12/Leetcode-problem/tree/main/0101-symmetric-tree/) | Easy |
+## Breadth-First Search
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0101-symmetric-tree](https://github.com/vaishnavi10-12/Leetcode-problem/tree/main/0101-symmetric-tree/) | Easy |
+## Binary Tree
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0101-symmetric-tree](https://github.com/vaishnavi10-12/Leetcode-problem/tree/main/0101-symmetric-tree/) | Easy |
 <!---LeetCode Topics End-->
