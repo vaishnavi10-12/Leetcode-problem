@@ -33,4 +33,16 @@ Collection of LeetCode problem solutions implemented in Java with clear logic an
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0101-symmetric-tree](https://github.com/vaishnavi10-12/Leetcode-problem/tree/main/0101-symmetric-tree/) | Easy |
+## Hash Table
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0013-roman-to-integer](https://github.com/vaishnavi10-12/Leetcode-problem/tree/main/0013-roman-to-integer/) | Easy |
+## Math
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0013-roman-to-integer](https://github.com/vaishnavi10-12/Leetcode-problem/tree/main/0013-roman-to-integer/) | Easy |
+## String
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0013-roman-to-integer](https://github.com/vaishnavi10-12/Leetcode-problem/tree/main/0013-roman-to-integer/) | Easy |
 <!---LeetCode Topics End-->
